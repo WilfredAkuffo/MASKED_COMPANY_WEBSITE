@@ -79,11 +79,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center">
                 <Mail className="w-4 h-4 mr-3 text-gray-400" />
-                <span className="text-gray-400">hello@maskedtech.com</span>
+                <span className="text-gray-400">maskedmedia.info@gmail.com</span>
               </div>
               <div className="text-gray-400">
-                <p>New York, NY</p>
-                <p>+1 (555) 123-4567</p>
+                <p>Cape Coast, Ghana</p>
+                <p>0509107567 / 0247883082</p>
               </div>
             </div>
             
